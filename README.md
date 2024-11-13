@@ -13,7 +13,6 @@ Fitness Pal is a workout generator app that creates customizable workout routine
   <img src="https://github.com/user-attachments/assets/823af71d-0e6d-4e92-b6e0-794ab3fc3580" width="400" />
 </div>
 
----
 ## **How to Run**
 1. Clone the repository or download the project files.
 2. Make sure you have Python 3.x installed.
@@ -21,7 +20,6 @@ Fitness Pal is a workout generator app that creates customizable workout routine
    ```bash
    python fitness_pal.py
    
----
 ## **Tech Stack**
 - **Python**: We all know this one.
 - **Tkinter**: Python's GUI library.
